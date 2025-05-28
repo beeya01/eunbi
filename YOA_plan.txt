@@ -1,0 +1,13 @@
+# Your Own Analysis 1 - 연구 계획서
+
+## 주제 (Title)
+Figure 2E 재현
+
+## 연구 목표 (Objective)
+Guided Mission 3의 결과를 바탕으로 secondary structure 선호도 조사
+
+## 사용 데이터
+- 데이터: LIN28A CLIP-seq 데이터
+
+## 예상 결과 및 기대 효과 (Expected Outcomes)
+LIN28A의 RNA 결합이 단순히 특정 서열 모티프에만 의존하는 것이 아니라, 주변의 secondary structure의 특징에 의해 강한 영향을 받을 것으로 예상됨
